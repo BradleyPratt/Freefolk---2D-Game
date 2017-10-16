@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/platformreminder.unity
+  isLoaded: 1
+  isActive: 1

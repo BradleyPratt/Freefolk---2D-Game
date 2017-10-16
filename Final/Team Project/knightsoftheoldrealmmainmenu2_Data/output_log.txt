@@ -1,0 +1,3363 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA Quadro K2100M (ID=0x11fc)
+    Vendor:   NVIDIA
+    VRAM:     2017 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: G:\2\Team Project\knightsoftheoldrealmmainmenu2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading G:\2\Team Project\knightsoftheoldrealmmainmenu2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: G:\2\Team Project\knightsoftheoldrealmmainmenu2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading G:\2\Team Project\knightsoftheoldrealmmainmenu2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: G:\2\Team Project\knightsoftheoldrealmmainmenu2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading G:\2\Team Project\knightsoftheoldrealmmainmenu2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: G:\2\Team Project\knightsoftheoldrealmmainmenu2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading G:\2\Team Project\knightsoftheoldrealmmainmenu2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.111 seconds
+Platform assembly: G:\2\Team Project\knightsoftheoldrealmmainmenu2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: G:\2\Team Project\knightsoftheoldrealmmainmenu2_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3200x1080 at -1280,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.731765 ms
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.369163 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 434.
+Total: 0.194630 ms (FindLiveObjects: 0.018626 ms CreateObjectMapping: 0.015585 ms MarkObjects: 0.152435 ms  DeleteObjects: 0.007222 ms)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at SlimeScript.OnTriggerEnter2D (UnityEngine.Collider2D col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at SlimeScript.OnTriggerEnter2D (UnityEngine.Collider2D col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at SlimeScript.OnTriggerEnter2D (UnityEngine.Collider2D col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at SlimeScript.OnTriggerEnter2D (UnityEngine.Collider2D col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at SlimeScript.OnTriggerEnter2D (UnityEngine.Collider2D col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.946543 ms
+
+Unloading 75 unused Assets to reduce memory usage. Loaded Objects now: 190.
+Total: 0.778522 ms (FindLiveObjects: 0.045996 ms CreateObjectMapping: 0.028130 ms MarkObjects: 0.261535 ms  DeleteObjects: 0.441340 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.327679 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 434.
+Total: 0.250511 ms (FindLiveObjects: 0.025849 ms CreateObjectMapping: 0.016726 ms MarkObjects: 0.198432 ms  DeleteObjects: 0.009123 ms)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at SlimeScript.OnTriggerEnter2D (UnityEngine.Collider2D col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at SlimeScript.OnTriggerEnter2D (UnityEngine.Collider2D col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at SlimeScript.OnTriggerEnter2D (UnityEngine.Collider2D col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at SlimeScript.OnTriggerEnter2D (UnityEngine.Collider2D col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at SlimeScript.OnTriggerEnter2D (UnityEngine.Collider2D col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at SlimeScript.OnTriggerEnter2D (UnityEngine.Collider2D col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.589974 ms
+
+Unloading 75 unused Assets to reduce memory usage. Loaded Objects now: 190.
+Total: 0.505583 ms (FindLiveObjects: 0.026229 ms CreateObjectMapping: 0.021667 ms MarkObjects: 0.192349 ms  DeleteObjects: 0.264956 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.363412 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 434.
+Total: 0.270278 ms (FindLiveObjects: 0.030791 ms CreateObjectMapping: 0.016726 ms MarkObjects: 0.213257 ms  DeleteObjects: 0.008743 ms)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at SlimeScript.OnTriggerEnter2D (UnityEngine.Collider2D col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at SlimeScript.OnTriggerEnter2D (UnityEngine.Collider2D col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at SlimeScript.OnTriggerEnter2D (UnityEngine.Collider2D col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at SlimeScript.OnTriggerEnter2D (UnityEngine.Collider2D col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at SlimeScript.OnTriggerEnter2D (UnityEngine.Collider2D col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at SlimeScript.OnTriggerEnter2D (UnityEngine.Collider2D col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.039060 ms
+
+Unloading 75 unused Assets to reduce memory usage. Loaded Objects now: 190.
+Total: 1.206558 ms (FindLiveObjects: 0.055120 ms CreateObjectMapping: 0.037253 ms MarkObjects: 0.410168 ms  DeleteObjects: 0.702115 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.373675 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 434.
+Total: 0.222760 ms (FindLiveObjects: 0.021287 ms CreateObjectMapping: 0.015585 ms MarkObjects: 0.177144 ms  DeleteObjects: 0.007982 ms)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at SlimeScript.OnTriggerEnter2D (UnityEngine.Collider2D col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at SlimeScript.OnTriggerEnter2D (UnityEngine.Collider2D col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at SlimeScript.OnTriggerEnter2D (UnityEngine.Collider2D col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at SlimeScript.OnTriggerEnter2D (UnityEngine.Collider2D col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at SlimeScript.OnTriggerEnter2D (UnityEngine.Collider2D col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at SlimeScript.OnTriggerEnter2D (UnityEngine.Collider2D col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.130293 ms
+
+Unloading 81 unused Assets to reduce memory usage. Loaded Objects now: 190.
+Total: 1.252174 ms (FindLiveObjects: 0.053979 ms CreateObjectMapping: 0.051698 ms MarkObjects: 0.434497 ms  DeleteObjects: 0.710478 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.380518 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 434.
+Total: 0.278261 ms (FindLiveObjects: 0.030030 ms CreateObjectMapping: 0.015965 ms MarkObjects: 0.222760 ms  DeleteObjects: 0.009123 ms)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: Invalid mouse button index.
+  at (wrapper managed-to-native) UnityEngine.Input:GetMouseButtonDown (int)
+  at Text.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at SlimeScript.OnTriggerEnter2D (UnityEngine.Collider2D col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnityException: GameObject has undefined tag!
+  at (wrapper managed-to-native) UnityEngine.GameObject:get_tag ()
+  at SlimeScript.OnTriggerEnter2D (UnityEngine.Collider2D col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.560323 ms
+
+Unloading 81 unused Assets to reduce memory usage. Loaded Objects now: 190.
+Total: 0.360751 ms (FindLiveObjects: 0.029270 ms CreateObjectMapping: 0.012164 ms MarkObjects: 0.149394 ms  DeleteObjects: 0.169921 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1a08 -> priority: 1 
+  Thread -> id: 36ac -> priority: 1 

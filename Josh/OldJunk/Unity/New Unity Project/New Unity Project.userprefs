@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="C:\Users\u1653259\Downloads\New Unity Project\Assets\SlimeScript.cs">
+    <Files>
+      <File FileName="C:\Users\u1653259\Downloads\New Unity Project\Assets\Player.cs" Line="9" Column="18" />
+      <File FileName="C:\Users\u1653259\Downloads\New Unity Project\Assets\Enemy.cs" Line="48" Column="1" />
+      <File FileName="C:\Users\u1653259\Downloads\New Unity Project\Assets\SlimeScript.cs" Line="8" Column="53" />
+      <File FileName="C:\Users\u1653259\Downloads\New Unity Project\Assets\Weapon.cs" Line="2" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

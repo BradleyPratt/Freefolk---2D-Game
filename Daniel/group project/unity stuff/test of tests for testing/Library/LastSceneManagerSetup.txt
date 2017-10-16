@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Test Layout 2 electric boogaloo.unity
+  isLoaded: 1
+  isActive: 1
